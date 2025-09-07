@@ -209,5 +209,5 @@ __marimo__/
 
 #other
 .idea/
-./datasets/raw/*.csv
-./datasets/raw/*.txt
+datasets/raw/*.csv
+datasets/raw/*.txt
