@@ -1,0 +1,4 @@
+huggingface-hub==0.34.4
+libinjection-python==1.1.6
+pandarallel==1.6.5
+seaborn==0.13.2
