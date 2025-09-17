@@ -211,3 +211,5 @@ __marimo__/
 .idea/
 datasets/raw/*.csv
 datasets/raw/*.txt
+
+models/*.joblib
